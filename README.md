@@ -15,6 +15,9 @@ Objetivo deste teste é avaliar seus conhecimentos em front end como organizaç�
 ## Uma página de lista de clientes:
  
 - A partir da lista, deverá ser possível editar um cliente.
+	- Nome;
+	- Foto do perfil;
+	- E-mail;
 
 ## Uma página para cadastrar um novo cliente:
 
@@ -69,9 +72,10 @@ API para desenvolvimento da aplicação:
 ### Finalizando
 
   
-* Envie-nos o link do seu projeto. Exemplo: https://github.com/seuNome/test-frontEnd.git
+* Envie-nos o link do seu projeto. Exemplo: https://github.com/seuNome/test-fron-end-coobrastur.git
 
 * Aguarde o RH entrar em contato.
+
 
 Bom teste!
   
