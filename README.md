@@ -18,7 +18,7 @@ Objetivo deste teste é avaliar seus conhecimentos em front end como organizaç�
 
 ## Uma página para cadastrar um novo cliente:
 
-Os seguintes dados devem ser apresentados na página:
+- Os seguintes dados devem ser apresentados na página:
 	- Nome;
 	- Profissão;
  
