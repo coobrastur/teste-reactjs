@@ -28,6 +28,9 @@ Objetivo deste teste é avaliar seus conhecimentos em front end como organizaç�
  
 Layout das páginas:
 > FIGMA https://www.figma.com/file/1dQIYtGQfjTZdnaif25sNt/Teste-Front-end-Coobrastur?node-id=2%3A106
+
+> DOWNLOAD LAYOUT https://drive.google.com/file/d/1MRsjMd5MkAMxgLbR5MvbXwP4jT0xuLIK/view?usp=sharing
+
   
 API para desenvolvimento da aplicação:
 > https://reqres.in/
